@@ -20,7 +20,7 @@ your-project/
 ## STEP 1 — Train the model in Google Colab
 
 1. Open [Google Colab](https://colab.research.google.com)
-2. Create a new notebook and paste the contents of `train_reward_model.py`
+2. Create a new notebook and paste the contents of `reward_model.py`
    - Or upload the file directly: File → Upload notebook
 3. Set Runtime to **GPU** (Runtime → Change runtime type → T4 GPU)
 4. Run all cells top-to-bottom (~5–10 min on GPU)
